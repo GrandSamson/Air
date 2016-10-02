@@ -1,0 +1,22 @@
+
+SJ 473 	Daily 	  	0420 		0530 
+SJ 471 	Daily 	  	0530		0645 
+SJ 483  Daily 	  	0635 		0750 
+SJ 483 	Mo     	  	0810 		0925 
+SJ 483 	Daily 		0635 		0750 
+SJ 483  Daily 		0635 		0750 
+SJ 483  Daily 		0635 		0750 
+SJ 483 	Th		0810 		0920 
+SJ 483  Daily 		0635 		0750
+SJ 483  Mo		 0810 		0920 
+SJ 483  Daily 		0635 		0750
+SJ 483  Su 		0635 		0750 
+SJ 483  Sa 		 0810 		0925 
+SJ 483  Daily 		0635 		0750 
+SJ 475  We 		0715 		0830
+SJ 485  Mo		  0935 		1055 
+SJ 485  daily		  0935 		1055 
+SJ 487 	Daily 		1200 		1325 
+SJ 477  Daily 		1600 		1715 
+SJ 477  Daily 		1600 		1715 
+SJ 477	Daily 		1600 		1715 
